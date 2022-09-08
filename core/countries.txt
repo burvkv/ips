@@ -1,1 +1,1 @@
-TR,tr,DE,de
+'TR','tr','DE','de'
